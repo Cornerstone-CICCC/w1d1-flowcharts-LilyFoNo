@@ -1,0 +1,5 @@
+1. Start
+2. Input legth in feet (LFT)
+3. LCM <- LFT * 30
+4. Print legth in cm: LCM
+5. End

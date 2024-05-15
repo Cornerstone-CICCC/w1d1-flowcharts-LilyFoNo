@@ -1,0 +1,6 @@
+1. Start
+2. Input the width (W)
+3. Input the Length (L)
+4. A <- W * L
+5. Print A
+6. End

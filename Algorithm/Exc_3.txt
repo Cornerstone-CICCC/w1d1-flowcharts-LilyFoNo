@@ -1,0 +1,25 @@
+<<<<<<< HEAD
+1.   Start
+2.   Input a,b and c
+3.   if a > b
+4.  	if a > c
+5.  	   print a
+6.  	else
+7.	if  b > c
+8.  	print b
+9.   else 
+10    print c
+11. Endif
+=======
+1.  Start
+2.  Input a,b and c
+3.  if a > b
+4.  else if a > c
+5.  print a
+6.  else if b > c
+7.  print b
+8.  else 
+9   print c
+10. End
+>>>>>>> 89b2ee22367e76e2b76569755f291e818820e8de
+

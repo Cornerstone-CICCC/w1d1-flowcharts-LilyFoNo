@@ -1,0 +1,12 @@
+1.    Start
+2.    Input Student's name
+3.    Input Marks obtained by the student
+4.     if Marks >= 80%
+5.       print "A"
+6.         else if Marks >= 60% && Marks < 80%
+7.           print "B"
+8.            else  if Marks >= 40 % && Marks < 60%
+9.               print "C"
+10.     else
+11.      Print "No Grade"
+12.   Endif 
